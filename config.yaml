@@ -1,0 +1,21 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cockie_name
+credentials:
+  usernames:
+    rbriggs:
+      emial: rbriggs@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Rebecca Briggs
+      password: $2b$12$vD34HS/e7IWtBGQUNg3A3upxyURLcAbMYtic.6DteK/ti2NmfhIPG
+    dsoler:
+      email: dsoler@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: David Soler
+      password: $2b$12$VKkRG5FIDrjaWuE2iyGxxOcHlrTvJYDGIr4A1Gc3X3dTTDxk1dFb.
+pre-authorized:
+  emails:
+  - dsoler@gmail.com
